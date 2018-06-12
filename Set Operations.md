@@ -4,6 +4,8 @@ There are a few ways of combining sets.
 
 ## 1. Intersections
 Let's say that we have a set *A* = {1,2,3} and set *B* = {2,3,4}. **Intersection** of *A* and *B* is a new set - {2,3}. In other words, intersection is a set of objects that are present in multiple sets at the same time. In symbols, intersection is denoted by $\cap$.  
+$$A \cap B \thickspace is \thickspace \{e| \space e \in A \land e \in B \}$$
+Example,
 * {1,2,3} $\cap$ {2,3,4} = {2,3}
 
 If two sets have no simultaneous objects, they are said to be **disjoint sets**.
@@ -19,10 +21,22 @@ Union is similar to intersection. With a small difference. When we want to repre
  In fancy symbols, we define it as the following:
 $$A \cup B \thickspace is \thickspace \{e| \space e \in A \lor e \in B \}$$
 
-For instance.
+For instance,
 * {1,2,3,4} $\cup$ {3,5,6,7} = {1,2,3,4,5,6,7}
 
 
 ![Venn diagram - Union](https://upload.wikimedia.org/wikipedia/commons/2/2f/Venn_A_union_B.png)
 
+## 3. Symmetric Difference
+**Symmetric difference** of *A* and *B* is a collection of objects that appear **only in *A* or *B***. If an element is present in both sets, it cannot be a part of symmetric difference set. The special symbol to denote it is: $\oplus$. 
+$$A \oplus B = \{ x| \space x \in A \oplus x \in B \}$$
 
+Example,
+* {1,2,3} $\oplus$ {2,3,4,5} = {1,4,5}
+
+Since 2 and 3 appear in both sets above, they are not in the symmetric difference set.
+![Venn diagram - Symmetric difference](https://upload.wikimedia.org/wikipedia/commons/d/d2/AxorB.png)
+
+
+## 4. Complement
+The **complement** of *B* **relative to** *A*
