@@ -40,3 +40,9 @@ Since 2 and 3 appear in both sets above, they are not in the symmetric differenc
 
 ## 4. Complement
 The **complement** of *B* **relative to** *A*
+
+```typescript
+@Component({
+	public a:string = "Test";
+})
+```
