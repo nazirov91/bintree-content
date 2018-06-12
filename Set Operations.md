@@ -39,10 +39,11 @@ Since 2 and 3 appear in both sets above, they are not in the symmetric differenc
 
 
 ## 4. Complement
-The **complement** of *B* **relative to** *A*
+The **complement** of *B* **relative to** *A*, written as $A - B$ (not $B - A$), is the set of elements that are present in set *A* and not in set *B*.
+$$A - B = \{ x \mid x \in A \land x \notin B \}$$
+For example,
+* {1,2,3,4} $-$ {1,2,5,6} = {3,4}
 
-```typescript
-@Component({
-	public a:string = "Test";
-})
-```
+Elements 3 and 4 exist in set one but not in set two. Hence, they are called the complement of B with respect to A. Sometimes they are called the ***difference*** of A and B.
+
+
