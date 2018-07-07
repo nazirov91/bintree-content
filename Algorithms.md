@@ -6,7 +6,7 @@
 
 In other words, an algorithm is a computational **procedure** that takes in an **input**, processes it and then spits out an **output**.
 
-![enter image description here](https://lh3.googleusercontent.com/V465l7T6Wctm_ulRt44JJ04W7S3x-9DQ3vuwT7rLPxX2RzZueRWxj28puMBwOVBnXyfk5r-R5JpWaDMluYcX5d2zzhjk6ukgj7BYVJ-VBKFitBDrbl7_svceOlXSVs6wE6qQ6W9hqoa0V0IG9Fli0QkHGSjilMsyLZMa11LeqoTOMKhTyn-LUuTYbdBgXEuuiJ4Sc0M7uoS9JWH11xoKFVg7YoUJTt9v0zH7pEkDBTtmPKS7gvIV0mxGwZZgu1PK-rns4Dqim8txtH006V1NgaLbgCilYKA_1bdz3LnBJBc-NiMNvKMwoFcANaNKm1cf5_YktbKYMPAgMMzsQcA1KIru5ZwLFUiCIPIEv6yc4Gh8jq0ALyWjv9C6xJgZbYUudKFC5eu5ssghf-pE76nYLN2F4vVqEuuSx5uAWMYg1-bELinp7TKvonmfMXXhoku_xTSSoc3hUShTTLIYLG9A8AQDhTylncRBb-0nxoSFpxbF-1og3US2Qj7vwYIagO01A8b8GCcdSXoOxAYXAIJByGhNSZ-dsHp36B0u2qjJlcJPzEBl2HG8gZrapINOajaCxtlNgLsxAKUOCPafKpXpd6yQPit_FggiSusYU2C0=w365-h99-no)
+![enter image description here](algo_i:o.png)
 
 
 There are certain properties an algorithm must have to be considered as valid.
