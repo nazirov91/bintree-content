@@ -6,7 +6,7 @@
 
 In other words, an algorithm is a computational **procedure** that takes in an **input**, processes it and then spits out an **output**.
 
-![enter image description here](algo_i:o.png)
+![enter image description here](http://www.akashiclabs.com/wp-content/uploads/2014/07/algorithm_overview.bmp-660x225.png)
 
 
 There are certain properties an algorithm must have to be considered as valid.
